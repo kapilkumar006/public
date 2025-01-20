@@ -1,0 +1,70 @@
+.container-fluid{
+    
+    color: white;
+}
+.form-control{
+    margin-bottom: 30px;
+    background-color: #263C28;
+}
+#btn {
+    background-color: #F7C35F;
+    color: #1A1A1A;
+    size: 15px;
+}
+
+.texting{
+    font-style: joh;
+}
+#food-img > img{
+background-color: #D9D9D91A;
+}
+.stap{
+    top: 20px;
+  right: -62px;  
+}
+#YourName {
+    background-color: #263C28;
+    color: white;
+    border:none ;
+}
+#YourName::placeholder{
+    color: white;
+    font-size: 16px;
+}
+.wp-9{
+    margin-top: 150px;
+}
+.wp-9 p{
+    font-size: 12px;
+}
+#Articles{
+    margin-left: auto;
+    margin-right: auto;
+}
+#bu{
+    right: -4px;
+    bottom: -151px;
+    background-color: #F7C35F;
+    border: none;
+}
+#firstpart{
+    margin-top: -280px;
+    margin-left:90px ;
+}
+#f{
+    color: #F7C35F;
+}
+#ban{
+    margin-top: -280px;
+    margin-left:90px ;
+}
+#Products{
+    margin-top: -280px;
+    margin-left:90px ;
+}
+#farm{
+    background-color: #6D8C54;
+}
+.wp-22{
+    gap: 200px;
+}
